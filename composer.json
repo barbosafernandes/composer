@@ -1,0 +1,13 @@
+{
+    "name": "barbosafernandes/composer-1",
+    "description": "aula composer segunda feira",
+    "authors": [
+        {
+            "name": "barbosafernandes",
+            "email": "warlley_1996@hotmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
